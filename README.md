@@ -11,7 +11,7 @@ Statistical Measures:
 	Residual vs. Fitted Values plots.
 	Q-Q Plots of Residuals.
  	Hypothesis test - H0: There is no difference between ERP and PRP
-										HA: ERP and PRP are different
+			  HA: ERP and PRP are different
 	Two seperate linear regression models - ERP and PRP using all predictive variables.
  	Analysis of Variance (ANOVA) tests - test what predictor variables to keep in the models.
 	Linear Regression Assunmptions - linearity, constant variance, independence, and normal distribution.
