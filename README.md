@@ -14,4 +14,4 @@ Statistical Measures:
 			  HA: ERP and PRP are different
 	Two seperate linear regression models - ERP and PRP using all predictive variables.
  	Analysis of Variance (ANOVA) tests - test what predictor variables to keep in the models.
-	Linear Regression Assunmptions - linearity, constant variance, independence, and normal distribution.
+	Linear Regression Assumptions - Linearity, Constant Variance, Independence, and Normal Distribution.
